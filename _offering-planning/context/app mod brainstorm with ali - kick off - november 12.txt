@@ -1,0 +1,718 @@
+Yeah, let's just kick off a little bit of this with like some context around the ask just so that it's in here.
+
+Um
+
+So fast forward became a priority solution last year, even though it's not even a solution.
+
+It is a sales motion.
+
+But it's changing the way that we sell.
+
+There was a big directive from the SNC.
+
+leadership last year under Dave Rolls to be doing more proactive pitching.
+
+That we don't do it as a company.
+
+And fast forward was our answer to that.
+
+Where we show up in the room doing the things and make the first conversation feel like we're six weeks in.
+
+It creates these moments that rattle us around in C-suites and give us a lot of opportunities.
+
+It helps us win a lot of different kinds of work, but it sets up relationships that help us for the long term.
+
+Fast forward is a sales motion where we bring together desirability, feasibility, and viability.
+
+And it brings together in that realm, it brings together design for desirability, strategy for viability, and technology for feasibility.
+
+We looked at that as an opportunity to show the business problem and its place in the market in addition to the solutions with technology that we would endeavor to start things off on the right foot and create a North Star that we're driving towards
+
+a line in a s that you could touch and feel as opposed to just an outcome that comes out in an RFP.
+
+So with that we went through fast forward and fast forward is driven like forty six or so million dollars in revenue for the year.
+
+Closed deals that came out of that kind of motion.
+
+Most of that work has been like infrastructure and modernization kind of work
+
+But we've also started really tuning it towards being the front door to FDX because FDX came up in the middle of the year and FDX has just bloated fast forward because you basically have the same teams.
+
+that are going after a backlog of ideas and business problems, iterating on that in a subscription model, right?
+
+So it's not like a lot of other projects that we do where it's like go do this specific thing for me.
+
+It's go do
+
+Go help me burn through this backlog of ideas and problems, figure out if the juice is worth the squeeze.
+
+And then it's separated from
+
+The first mile and the last mile.
+
+FDX doesn't really deal with the path to production right up front.
+
+And all of that's being developed, but like fast forward as it exists today is really being appended to that.
+
+Due to the popularity of fast forward, there have been a lot of requests across the business that that's just how we should sell.
+
+Mark gets it all the time, like, oh, and Mark's thing is let's put it in front of every priority solution we have.
+
+There are requirements for something being a fast forward.
+
+One, it doesn't make sense to do any of it if it doesn't have a if the outcome that we're going to drive in delivery doesn't have a strategy and design component to it.
+
+It doesn't make any sense.
+
+Why would we do it?
+
+It's it's they're expensive to run, which leads to point two.
+
+They need to be funded somehow.
+
+We need to be able to like pull from alliance funding or charge clients for it, some kind of way for pay for the time because what we found over the years that the good ones are very involved.
+
+They take a lot of our manned hours.
+
+And even if we get paid for them, we basically break even on that cost, but at least we have something to show for them.
+
+It's a sales motion.
+
+However, it's a much more caloric sales motion than other sales motions
+
+So it's not reserved.
+
+We we need business problems to focus on.
+
+It can't just be build me an agent.
+
+There's also the idea that um
+
+There needs to be surfaces that we can work on with these new ways of working that allow us to enable it.
+
+So for just like a general like non-AI related thing
+
+for change management, it wouldn't really make sense.
+
+AI coaching, it doesn't really make sense for.
+
+We're gonna get in and coach.
+
+We really need those surfaces and we need that technology component.
+
+So we I have strategized three offerings.
+
+that we go to market with that are a subset of the fast forward solution that are not FDX.
+
+One, and I'll go from the back to the front, one is Salesforce.
+
+Salesforce has a $150 million pipeline.
+
+It has alliance funding.
+
+It has strategy design and technology needs.
+
+And it has a surface and AI force that allows us to plug in and do some of these things so that we can show people a realistic outcome based on the technology stack that they're using.
+
+Customer data and insights is the other one with Databricks.
+
+The Databricks business is growing over a hundred percent year over year and they have genetic surfaces in there and a lot of new pro uh
+
+projects and Databricks is being seen now as something that enables more experiences as opposed to just a back-end technology.
+
+As a partner they're very interested in it.
+
+We have already a way of doing the strategy and design can be then the strategy doesn't in today's state hook into technology
+
+So we as design can help to be the glue for that and build something and fast forward that helps push both through at the same time.
+
+So we're doing strategy and technology together.
+
+The last one, but the most important one is AtMod.
+
+AtMod is a $300 million pipeline.
+
+It has tons of alliance funding.
+
+It's the biggest thing we're doing.
+
+We have a lot of experience doing it from an integrated design standpoint
+
+And we believe we're leaving a lot of money on the table just because of the drift that we've seen because of the operating model.
+
+We're investing heavily into the structure of that with you, Ali, as the person who's going to be sitting in the solution helping us to coordinate
+
+how we grow and take back some of that market share.
+
+But generally speaking, it uses the same kind of agentic surfaces that we do in the FDX ones, but the biggest difference is that it's more outcome pointed.
+
+It is we need to build this thing.
+
+And so we need to think about like who are the buyers, what are they asking for?
+
+What are the triggers in which we are going to be able to execute this with design and strategy in the mix
+
+Where are we not going to be able to put the time in?
+
+For example, we can't just do this for RFP responses because we don't get an audience to go run a multi-day workshop for, right?
+
+And we need to think within that pipeline very smartly about where we can get the wins so we can prove out the
+
+Um the efficacy of this, but it needs to be differentiated in some way from the FDX one that we're already doing, and we need to start creating
+
+Frameworks and materials that explain that to our sales people, our account people, and to our partners in technology.
+
+And so step one while why we're here is to outline like
+
+What does it look like?
+
+What is the business that we've done?
+
+What does the app mod solution look like?
+
+How is it segmented?
+
+Can we hypothesize that this is the type of work
+
+we would go after and are there some triggers to that?
+
+If you hear a client say blah, can we apply a fast forward to that?
+
+That's when you call us to do a fast forward and it's going to
+
+require these people and this kind of investment, etc.
+
+And it's gonna unlock whatever.
+
+That's not gonna be appealing for everything in app modernization.
+
+There's a lot of things where it's like we don't need to go to that amount of trouble to do it
+
+And there's a lot of things where really we're just not gonna see the kind of pull through that we want on it.
+
+Does that make sense?
+
+Mm-hmm.
+
+Okay.
+
+So
+
+We've started having some talks with some creatives on your team on things we can do.
+
+And I think, you know, it's really interesting to think about what are the
+
+Because when it comes to uh FDX, we don't bring a lot of accelerators.
+
+We might choose them based on the scenario, but there isn't like a set of these are the things that we're bringing to set fast forward.
+
+For AtMod, there's already, we know, and we want to talk to Steven about this today, some accelerators that engineering is bringing, and we don't know if they're just bringing them to delivery or if they're part of sales.
+
+We don't know what kind of workshops they're doing today.
+
+We might know a bit about that.
+
+You might have some information.
+
+We should talk about it.
+
+But what is design and strategy going to bring to the table?
+
+And we talked a little bit with folks, things like, you know, like a
+
+a stental for design systems or like a synthetic persona agent that we bring to the table.
+
+Like those are things that we would need to in order to be able to do this if we decided they were a part of it.
+
+to codify and have available for us to do it.
+
+So what's the work to do that?
+
+How many people do we have that can go run these things?
+
+How do we scale a team of people that can go run this against the the market potential that we have
+
+Right?
+
+How do we use the fast forward leads that we have today and start upscaling them?
+
+How do we draft on the things that are already happening like what Tom and Steven are doing at uh
+
+Gallagher to learn what's working and what's not.
+
+Pilot some things and codify as we go.
+
+I've been codifying a lot of materials about fast forward, so like this is something that Bueno and I were building.
+
+Um
+
+That hasn't seen the light of day yet.
+
+But this was meant to be kind of like the new fast forward experience with a new value proposition because it used to be like
+
+Hey, 24 hours will make things awesome or whatever.
+
+Or like 4X your product ROI.
+
+And we've tested all those things in the market.
+
+And really what it's about is shipping faster, innovating continuously, and building teams that make it stick.
+
+And the reason for that is
+
+Yeah, we can ship faster, but we need to do that iterative uh uh that iterative development of value for products to actually be differentiated and hit business goals.
+
+And then teams, we want our teams that stick, and then they all often our clients are asking us then to train them how to do it.
+
+We have like a lot of what it is and what it's not that we're gonna need to orient people around.
+
+And so like it's a it's an experience, it's not a prototype.
+
+It's a foundation of a real product.
+
+It's not something that a tech team just goes out and does.
+
+It's a moment of organizational like realization and learning, not just a deck or a proposal, but it does replace a sales pursuit.
+
+It's a designed event and it's not easy or free.
+
+Um, so where do we put our our bets in it?
+
+There's all kinds of reasons why this needs to happen today.
+
+We have all kinds of adopting adoption metrics on AI.
+
+But very few people are actually seeing any gains out of the speed KPI that most people are going after.
+
+We can show them how that changes.
+
+We have a set of beliefs.
+
+We have a framework for how we get from a business problem to value.
+
+We have stories about it.
+
+We have
+
+um how like you think about adopting tools versus building cross-team capabilities versus having centralized context for an organization.
+
+We have a bunch of stuff on where it leads that we need to open, we need to update.
+
+Like right now it's forward-deployed expertise or more value validation or like evolving a team.
+
+That's gonna change.
+
+But there's a lot of stuff in there.
+
+We've even built agents that help you to qualify an opportunity by like allowing people to put in like all the details they have and it'll give them suggestions on like is it a fast forward?
+
+How could it become a fast forward?
+
+How might you approach it?
+
+We need to update all of that based on these new offerings and all of that kind of stuff.
+
+So we have a bunch of stuff that I was ready to launch and we started talking about this and I was like, I'm not gonna get it out there yet.
+
+So part of what I need to do, and this isn't on you, is I need to harness thought leadership from you and like how you're going about sales and start codifying it in partnership with you into something that feeds into fast forward
+
+Which is also represented in our summit methodology.
+
+And I don't know how much you've even heard about that, but that's now in Kinexis and it says fast forward, da da da, like has a bunch of information in there.
+
+So if we work backwards from being able to do this at scale and making a shit ton of money, like where you and I are sitting right now is that the the
+
+We know we have people who want it.
+
+We have sponsors from the solution.
+
+We have sponsors from the capability.
+
+We have a right to win this work because we've done it before.
+
+We need to figure out like where are the places that we want to do it?
+
+What's the act what are the actual economics behind that so that we can drive the actual shape of the support we're gonna need to do it?
+
+and then get the alignment from the technical leads and start onboarding them to what this stuff is and isn't in a meaningful way where we're all speaking the same language
+
+From there, we can build out our pilots and our teams.
+
+We can start collecting the stories where it's winning, where it's not, in a focused way so that we can control the data and the narrative as we go.
+
+And report back up to people like Steve, Stewart, and Mark and Don Peluso throughout the thing.
+
+So I'll pause.
+
+Like do you have questions or thoughts about that?
+
+No, that all sounds good.
+
+Um
+
+Yes.
+
+Okay.
+
+Can I before we jump back in.
+
+Um I don't want to mess up the recording, but I'm gonna add Drew to this meeting because she's this uh one of the solution leads with To the Steven meeting.
+
+Yeah.
+
+Sorry.
+
+My internet has just been funky.
+
+She cloud build or um no.
+
+But capabilities.
+
+I don't know what capabilities are.
+
+She's in DL.
+
+Alright, she's in delivery.
+
+I think.
+
+I wouldn't add her.
+
+If she's not in cloud build, I I would say it's a next step to start bringing it back.
+
+So she would be in the
+
+So this is a good this is a good thing.
+
+Like what I would like you to be able to do, and the reason why we're creating a repository out of this is we're gonna put I'm gonna put all the other fast forward materials in there.
+
+We're gonna take our conversation.
+
+I'm gonna create a two-pager for you to bring back to the room the solution where all the capability leads so perfect.
+
+Yeah, but I don't think it makes a lot of sense to do it one at a time.
+
+The partner we really need right now is technology.
+
+Yeah, that's right
+
+I understand that solution ownership's probably going over to delivery.
+
+So, and not all of them, but
+
+the classic like kind of technical PM type of solution owners.
+
+Yeah.
+
+So they will be a part of this, but that's not organizationally like
+
+Really a big part of it right now.
+
+What I would say is that well what like okay, maybe maybe we'll just start the conversation.
+
+If you were gonna show how what fast forwards have you been a part of?
+
+Have you been a part of many?
+
+Um a couple, but not I feel like every fast forward that I've been involved in we've done a flavor of fast forward and it's not a traditional very tailored fast forward, yeah
+
+I don't think there is a traditional one.
+
+This actually gets us to a step of like there like let's use flavors as an example, right?
+
+There's different kinds of berries.
+
+So we're doing berry fast forward.
+
+Right, but like there's different kinds of berries.
+
+What's in season?
+
+What are we going after?
+
+Right, you should know that you want a berry fast forward versus like a
+
+God, I'm gonna fuck this metaphor up right away.
+
+Uh versus like a chocolate fast forward or something, you know, and like there's different kinds of chocolate, dark chocolate.
+
+Chocolate, light, chocolate, white, you know, uh all that kind of stuff.
+
+You should know.
+
+And so to me, at modernization would be like the berry fast forward.
+
+And there's gonna be different
+
+types of there's gonna be everybody's gonna have the autonomy because again it's a designed thing right has to be designed around the context of the client.
+
+Yeah.
+
+So like for me Vanguard I'll use that as an example and I'll use a van so two examples that are very different in scale.
+
+Vanguard.
+
+They are they don't close the loop with their top wealth customers.
+
+These are people who inv invest $10 million plus.
+
+The risk of those people leaving the services of Vanguard is huge because they'll take their advisors with them.
+
+And their advisors have portfolios of wealthy people who will follow them.
+
+Day one of the new C CEO's tenure, who was the first outside hired of Vanguard, he gets sat down with the Wall Street Journal.
+
+Congrats on the new position.
+
+You're the first outside hire.
+
+What are you gonna do about this feedback problem that you have?
+
+And when you look at the organization, they all know that, but they're not solving the problem.
+
+And so we were asked to come in because someone had seen how we work in these workshops and was like, I need to bring some of that thinking into my
+
+organization and we chose that as the problem to focus around on the lead up to it.
+
+We had multiple conversations with people about like what is this problem?
+
+How does product exist in wealth management today?
+
+What are the different
+
+segments of it.
+
+We recorded all of that.
+
+Like what are the problems different people are trying to solve?
+
+How is this all organized?
+
+How does IT fit into the picture?
+
+They're a different organization.
+
+What is their technical stack?
+
+How do they build?
+
+We got with AWS because they're a huge AWS shop and we got a bunch of insights on like what is their roadmap.
+
+All of this is feeding context leading up to the event, and we created a brief.
+
+This is what we're gonna do.
+
+These are the people we're gonna need in the room.
+
+And this is what we're gonna over 24 hours we're gonna work on solving this problem.
+
+We're gonna show you what we can do while you go along on the ride.
+
+with us.
+
+Yes, okay, cool.
+
+This wasn't an RFP.
+
+It wasn't a we need to put this out for work.
+
+This is an existential threat to our business.
+
+And we have a sponsor who understands that they need to see solutions outside of what they're capable of in house.
+
+We took close to this was a workshop with over 30 people across four different lines of business.
+
+We had to orchestrate them into corners to discuss their business, bring them back in to talk about where those problems were, synthesize all of that, realizing that
+
+They understand the problems at the high level, they solve them differently, they're totally detached from each other, they have twenty-seven different listening posts, they have years of backlog of VOC feedback, and they're not addressing any of it in a consistent way.
+
+There's no ownership registry.
+
+These are all things that we found out from the
+
+from the workshop.
+
+There's no ownership registry for any of these problems and they're not triaged at a high level.
+
+An initiative will initiative will be cast down from
+
+executives and that will just hit whoever whatever team they think it goes to and then they're focused on it but it's not happening over here over here over here over here
+
+So with all of that, what we developed was an agentic surface that allowed them to triage and harmonize all of that data that's coming in from those listening points.
+
+listening posts based on work they're already doing around data taxonomy and availability of that data.
+
+We started talking about how you prioritize it with synthetic personas in the mix so you're never gonna be able to talk to these
+
+High value clients, you don't get to talk to most of the clients.
+
+That's just the front line and you don't have access.
+
+You listen to their calls, you get their feedback.
+
+And with the high value ones, you don't hear anything unless an advisor tells you.
+
+So let's build representatives of these personas that can be an aid in that process.
+
+Let's define what the loop is.
+
+These are the different stages of it.
+
+This is when it's actually closed.
+
+Let's create agents that run through each stage and track it, infecting your PDLC across all of its channels
+
+so that you know where something is, where it's held up, who owns it, what the next step is, when it's going to be done.
+
+And at the end of the day, the North Star was an advisor has access to all of this stuff.
+
+And they can actually use this to ask questions to help their clients, but the minute that a loop is closed, they get notified and they get to tell their client, this is what we did about your problem.
+
+That's example one.
+
+Example two was a Veta.
+
+Mid-market company.
+
+The board is asking them to create new revenue streams, and they realize that they have this.
+
+They they do a bunch of uh insurance logistics for big companies.
+
+So like Amazon has a bunch of people driving around uh packages, they insure the trucks, right?
+
+They serve these big organizations, but they have these relationships with all these mid-market contractors that they're not leveraging.
+
+And they know things around risk mitigation, like if you have
+
+um a job that's at the docks and we use this like example of a bucket of blood where a worker finds like a bucket that's like leaking blood out of it.
+
+They call the the person who ordered the job, they're like, I can't help you, you need to go through these channels.
+
+Minutes are very expensive in this scenario, right?
+
+So creating an agent that divert like that's a number that they can call.
+
+explain the problem that routes it to all the appropriate sources, logs the incident report, alerts all the people that need to be alerted throughout all of the systems that they use today, and we did a value calculation on what that would mean at this scale, this scale, this scale
+
+We brought that to them in an overnight workshop and out of that like they started building out the infrastructure for it and they built a small version of like the agent that would do it and now they're building out that new line of service.
+
+But it's not nearly as big of a problem as Vanguard.
+
+Vanguard was weeks of prep, huge workshop, working well into the night.
+
+Aveta was
+
+About a week of prep, uh a workshop that encapsulated eight hours across two days, and then, you know, $500 or so thousand dollars worth of work that came up.
+
+So those are kind of I'm and so I'm curious for you, like what are a couple of examples of ones.
+
+Yeah, the NBCU one was the most recent one and we like set everything up.
+
+We got our repos, we got our contacts, we created a brief, we had like pre-working sessions with the
+
+And then we got in there and we ended up kind of like scrapping the like we asked them because they wanted more of a platform.
+
+And so we kind of scrapped the like concept of let's create something in working code because when we asked them
+
+two days before the workshop, they're like, what I care about more is being able to have a path forward.
+
+So we still ended up with the outcome of selling FDX work
+
+for them and it was like a six hundred and fifty thousand dollar opportunity for us, but we didn't deliver working code.
+
+We still had our starting point, but it was um uh it was a
+
+not like um we gave them a functional architecture and we created something in Figma Make and we had the same outcome so that's like oh interesting
+
+Yeah.
+
+But the it was FDX work after the after the thing.
+
+So basically like, hey, give us a team that can work on the ideas that we come up with.
+
+Yeah, because we did all of the work
+
+leading up to it and like explained like this is a blue sky idea and they're like, yes, we know we're we're on board and then when we got into our very last working session, we had a major pivot where they're like, you know what, we actually already have all of these
+
+prototypes that we built as our team.
+
+So they were kind of like messing around in this space anyway, but they didn't have the house that envisioned all of them together and how do they work together.
+
+So
+
+what they wanted was a platform and that just became really complex to pivot on right before.
+
+So we ended up still visualizing what that platform was.
+
+We did the recorded meeting, we have all that context and we still like leveraged all of that.
+
+Yeah.
+
+But it was just
+
+It was like our version of Fast Four.
+
+Interesting.
+
+Yeah.
+
+Okay.
+
+That's good.
+
+So there was NBCU.
+
+Have you been part of some other ones too, or is that the big one?
+
+That was the big one.
+
+Okay.
+
+So there's other ones like Tom's done them at McDonald's that are like we're trying to sell FDX.
+
+So like hey, we know you guys have like a bunch of big ideas.
+
+Like we have a new way of like burning through those ideas and figuring out what the right thing to do was.
+
+Um
+
+We've done them at uh multiple clients in uh in Tola, Vista Equity, ATT, like there's a bunch.
+
+Yeah.
+
+Um those have been like
+
+To inspire, we've seen less CX work come directly out of those, which which is interesting, right?
+
+And so what I think where we're at right now, the ones that I'm hearing about these days
+
+are like leading because of FDX leading with this, let us show you how we would run this in a smaller scale.
+
+Yeah, and I think that's
+
+the play for apmod too like we have one we have an opportunity which would be likely a data modernization for L'Oreal.
+
+It's still a very early conversation, but we presented FDX but would probably lead with
+
+Fast forward.
+
+Yeah.
+
+Um so that one's like in the works, but I think for app mod specifically, like that's the play.
+
+It's like the first early like assess improve where we're biting off the
+
+piece as well.
+
+That's how we're going to work to solve your problem.
+
+Yeah, but how can we like bite off a smaller chunk to uh prove that we can do this since it's like a
+
+You know, a lot of people have it it's a massive multi-year amount of work.
+
+Like how can we de-risk it and throw out the trust?
+
+Okay, that's good.
+
+I'm gonna
+
